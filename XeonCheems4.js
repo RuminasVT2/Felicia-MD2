@@ -1112,7 +1112,10 @@ const latensie = speed() - timestampe
 • ᴛᴏᴛᴀʟ ʜɪᴛ ᴛᴏᴅᴀʏ : ${jumlahharian}
 
 𝗥𝗘𝗦𝗣𝗢𝗡𝗦𝗘 𝗦𝗣𝗘𝗘𝗗
-• ${latensie.toFixed(4)} ᴍɪʟɪsᴇᴄᴏɴᴅs ⚡\n\n`
+• ${latensie.toFixed(4)} ᴍɪʟɪsᴇᴄᴏɴᴅs ⚡
+
+𝗕𝗢𝗧 𝗖𝗢𝗠𝗠𝗨𝗡𝗜𝗧𝗬
+• https://chat.whatsapp.com/LrwRvvQWQFF9AZrdbJyLHw\n\n`
    
    //randoming function
 function pickRandom(list) {
