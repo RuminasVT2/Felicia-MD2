@@ -3516,7 +3516,7 @@ encmedia = await XeonBotInc.sendImageAsSticker(from, wifegerakx, m, { packname: 
 await fs.unlinkSync(encmedia)
 }
 break
-            case 'sticker': case 's': case 'stickergif': case 'sgif': {
+            case 'stiker': case 'sticker': case 's': case 'stickergif': case 'sgif': {
    if (isBan) return reply(mess.ban)	 			
 if (isBanChat) return reply(mess.banChat)
 if (/image/.test(mime)) {
