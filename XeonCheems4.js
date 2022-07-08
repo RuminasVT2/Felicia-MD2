@@ -8061,7 +8061,7 @@ sourceUrl: anu.url
 XeonBotInc.sendMessage(m.chat, buttonMessage, { quoted: m })
 }
 break
-case 'getmusic': case 'getvideo': case 'yt': case 'youtube': case ': {
+case 'getmusic': case 'getvideo': case 'yt': case 'youtube': {
    if (isBan) return reply(mess.ban)	 			
 if (isBanChat) return reply(mess.banChat)
 if (!args[0]) return reply(mess.linkm)
