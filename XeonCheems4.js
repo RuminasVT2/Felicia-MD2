@@ -8061,7 +8061,7 @@ sourceUrl: anu.url
 XeonBotInc.sendMessage(m.chat, buttonMessage, { quoted: m })
 }
 break
-case 'getmusic': case 'getvideo': case 'yt': case 'youtube': case 'ytvideo': case 'ytmp3': case 'ytmp4': case 'ytmusic': {
+case 'getmusic': case 'getvideo': case 'yt': case 'youtube': case ': {
    if (isBan) return reply(mess.ban)	 			
 if (isBanChat) return reply(mess.banChat)
 if (!args[0]) return reply(mess.linkm)
@@ -8100,10 +8100,10 @@ reply("*Link Error*")
 }
 }
 break
-case 'ytvd': {
+case 'ytmp4': case 'ytv': {
    if (isBan) return reply(mess.ban)	 			
 if (isBanChat) return reply(mess.banChat)
-XeonBotInc.sendMessage(from, {video:{url:args[0]}, mimetype:"video/mpeg", caption:"Success", contextInfo:{externalAdReply:{
+XeonBotInc.sendMessage(from, {video:{url:args[0]}, mimetype:"video/mp4", caption:"Success", contextInfo:{externalAdReply:{
 title:`${global.botname}`,
 body:`${global.botname}`,
 thumbnail: log0,
@@ -8113,7 +8113,7 @@ sourceUrl: `${global.websitex}`
 }}}, {quoted:m})
 }
 break
-case 'ytad': {
+case 'ytmp3': case 'yta': {
    if (isBan) return reply(mess.ban)	 			
 if (isBanChat) return reply(mess.banChat)
 XeonBotInc.sendMessage(from, {audio:{url:args[0]}, mimetype:"audio/mpeg", ptt:false, contextInfo:{externalAdReply:{
