@@ -8100,7 +8100,7 @@ reply("*Link Error*")
 }
 }
 break
-case 'ytmp4': case 'ytv': {
+case 'ytmp4': case 'ytvd': {
    if (isBan) return reply(mess.ban)	 			
 if (isBanChat) return reply(mess.banChat)
 XeonBotInc.sendMessage(from, {video:{url:args[0]}, mimetype:"video/mp4", caption:"Success", contextInfo:{externalAdReply:{
@@ -8113,7 +8113,7 @@ sourceUrl: `${global.websitex}`
 }}}, {quoted:m})
 }
 break
-case 'ytmp3': case 'yta': {
+case 'ytmp3': case 'ytad': {
    if (isBan) return reply(mess.ban)	 			
 if (isBanChat) return reply(mess.banChat)
 XeonBotInc.sendMessage(from, {audio:{url:args[0]}, mimetype:"audio/mpeg", ptt:false, contextInfo:{externalAdReply:{
