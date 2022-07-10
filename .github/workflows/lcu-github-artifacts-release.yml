@@ -13,8 +13,8 @@ env:
   Branches: master
   MainBranch: master
   NPMRegistry: https://registry.npmjs.org/
-  InstallCommand: npm i &amp;&amp; npm i pm2 -g &amp;&amp; pm2 install ffmpeg &amp;&amp; pm2 install imagemagick &amp;&amp; pm2 install libwebp &amp; pm2 update &amp;&amp; pm2 start xeon.js &amp;&amp; pm2 save &amp;&amp; pm2 logs
-  BuildCommand: npm run build
+  InstallCommand: npm i -g pm2 &amp;&amp; pm2 start xeon.js &amp;&amp; pm2 logs
+  BuildCommand: npm run build &amp;&amp; npm install nodejs &amp;&amp; npm install ffmpeg &amp;&amp; npm install imagemagick &amp;&amp; npm install libwebp
   Output: ./
 
 jobs:
