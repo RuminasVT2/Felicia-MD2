@@ -3628,11 +3628,11 @@ case 'tickle':
 reply(mess.wait)						
  waifudd = await axios.get(`https://nekos.life/api/v2/img/${command}`)
                            var wbuttsss = [
-        {buttonId: `.${command}`, buttonText: {displayText: `Next ✨`}, type: 1},
+        {buttonId: `.${command}`, buttonText: {displayText: `𝗡 𝗘 𝗫 𝗧`}, type: 1},
         ]
       let buttonssMessages = {
        image: {url:waifudd.data.url},
-       caption:  `Here you go!`,
+       caption:  `*Follow instagram.com/katyushaclara*`,
       footer: `${global.botname}`,
       buttons: wbuttsss,
       headerType: 4
@@ -3704,7 +3704,7 @@ reply(mess.wait)
     ]
   let button2Messages = {
    image: {url:waifudd.data.url},
-   caption:  `Here you go!`,
+   caption:  `*Follow instagram.com/katyushaclara*`,
   buttons: trapbot,
   headerType: 1
   }     
@@ -3724,7 +3724,7 @@ if (!AntiNsfw) return reply(mess.nsfw)
     ]
   let button3Messages = {
    image: {url:waifudd.data.url},
-   caption:  `Here you go!`,
+   caption:  `*Follow instagram.com/katyushaclara*`,
   buttons: hnekobot,
   headerType: 1
   }      
@@ -3745,7 +3745,7 @@ reply(mess.wait)
     ]
   let button4Messages = {
    image: {url:waifudd.data.url},
-   caption:  `Here you go!`,
+   caption:  `*Follow instagram.com/katyushaclara*`,
   buttons: nwaifubot,
   headerType: 1
   }      
@@ -3760,11 +3760,11 @@ case 'gasm':
 reply(mess.wait)						
  waifudd = await axios.get(`https://nekos.life/api/v2/img/${command}`)
                            var wbuttsss = [
-        {buttonId: `.${command}`, buttonText: {displayText: `Next ✨`}, type: 1},
+        {buttonId: `.${command}`, buttonText: {displayText: `𝗡 𝗘 𝗫 𝗧`}, type: 1},
         ]
       let buttonsssMessages = {
        image: {url:waifudd.data.url},
-       caption:  `Here you go!`,
+       caption:  `*Follow instagram.com/katyushaclara*`,
       footer: `${global.botname}`,
       buttons: wbuttsss,
       headerType: 4
@@ -3779,11 +3779,11 @@ case 'smug2':
 reply(mess.wait)						
  waifudd = await axios.get(`https://nekos.life/api/v2/img/smug`)
                            var wbuttsss = [
-        {buttonId: `.${command}`, buttonText: {displayText: `Next ✨`}, type: 1},
+        {buttonId: `.${command}`, buttonText: {displayText: `𝗡 𝗘 𝗫 𝗧`}, type: 1},
         ]
       let button1ssMessages = {
        image: {url:waifudd.data.url},
-       caption:  `Here you go!`,
+       caption:  `*Follow instagram.com/katyushaclara*`,
       footer: `${global.botname}`,
       buttons: wbuttsss,
       headerType: 4
@@ -3798,11 +3798,11 @@ case 'foxgirl':
 reply(mess.wait)						
  waifudd = await axios.get(`https://nekos.life/api/v2/img/fox_girl`)
                            var wbuttsss = [
-        {buttonId: `.${command}`, buttonText: {displayText: `Next ✨`}, type: 1},
+        {buttonId: `.${command}`, buttonText: {displayText: `𝗡 𝗘 𝗫 𝗧`}, type: 1},
         ]
       let button12ssMessages = {
        image: {url:waifudd.data.url},
-       caption:  `Here you go!`,
+       caption:  `*Follow instagram.com/katyushaclara*`,
       footer: `${global.botname}`,
       buttons: wbuttsss,
       headerType: 4
@@ -3821,7 +3821,7 @@ if (!m.isGroup) return replay(mess.group)
     ]
   let xx1button3Messages = {
    image: {url:waifudd.data.url},
-   caption:  `Here you go!`,
+   caption:  `*Follow instagram.com/katyushaclara*`,
   buttons: xxhnekobot,
   headerType: 1
   }      
@@ -3835,11 +3835,11 @@ case 'waifu3':
 reply(mess.wait)						
  waifudd = await axios.get(`https://nekos.life/api/v2/img/waifu`)
                            var wbuttsss = [
-        {buttonId: `.${command}`, buttonText: {displayText: `Next ✨`}, type: 1},
+        {buttonId: `.${command}`, buttonText: {displayText: `𝗡 𝗘 𝗫 𝗧`}, type: 1},
         ]
       let button112ssMessages = {
        image: {url:waifudd.data.url},
-       caption:  `Here you go!`,
+       caption:  `*Follow instagram.com/katyushaclara*`,
       footer: `${global.botname}`,
       buttons: wbuttsss,
       headerType: 4
@@ -3854,11 +3854,11 @@ case 'neko2':
 reply(mess.wait)						
    waifud = await axios.get('https://waifu.pics/api/sfw/neko')
                 var wbutsss = [
-        {buttonId: `.neko`, buttonText: {displayText: `Next ✨`}, type: 1},
+        {buttonId: `.neko`, buttonText: {displayText: `𝗡 𝗘 𝗫 𝗧`}, type: 1},
         ]
       let buttonssMessage = {
        image: {url:waifud.data.url},
-       caption:  `Here you go!`,
+       caption:  `*Follow instagram.com/katyushaclara*`,
       footer: `${global.botname}`,
       buttons: wbutsss,
       headerType: 4
@@ -3873,11 +3873,11 @@ case 'animecuddle':
 reply(mess.wait)						
  waifudd = await axios.get(`https://nekos.life/api/v2/img/cuddle`)
                            var wbuttsss = [
-        {buttonId: `.${command}`, buttonText: {displayText: `Next ✨`}, type: 1},
+        {buttonId: `.${command}`, buttonText: {displayText: `𝗡 𝗘 𝗫 𝗧`}, type: 1},
         ]
       let buttonsosMessages = {
        image: {url:waifudd.data.url},
-       caption:  `Here you go!`,
+       caption:  `*Follow instagram.com/katyushaclara*`,
       footer: `${global.botname}`,
       buttons: wbuttsss,
       headerType: 4
@@ -3892,11 +3892,11 @@ case 'animeslap':
 reply(mess.wait)						
  waifudd = await axios.get(`https://nekos.life/api/v2/img/slap`)
                            var wbuttsss = [
-        {buttonId: `.${command}`, buttonText: {displayText: `Next ✨`}, type: 1},
+        {buttonId: `.${command}`, buttonText: {displayText: `𝗡 𝗘 𝗫 𝗧`}, type: 1},
         ]
       let btutttonssMessages = {
        image: {url:waifudd.data.url},
-       caption:  `Here you go!`,
+       caption:  `*Follow instagram.com/katyushaclara*`,
       footer: `${global.botname}`,
       buttons: wbuttsss,
       headerType: 4
@@ -3911,11 +3911,11 @@ case 'animepat':
 reply(mess.wait)						
  waifudd = await axios.get(`https://nekos.life/api/v2/img/pat`)
                            var wbuttsss = [
-        {buttonId: `.${command}`, buttonText: {displayText: `Next ✨`}, type: 1},
+        {buttonId: `.${command}`, buttonText: {displayText: `𝗡 𝗘 𝗫 𝗧`}, type: 1},
         ]
       let xxbuttonssMessages = {
        image: {url:waifudd.data.url},
-       caption:  `Here you go!`,
+       caption:  `*Follow instagram.com/katyushaclara*`,
       footer: `${global.botname}`,
       buttons: wbuttsss,
       headerType: 4
@@ -3930,11 +3930,11 @@ case 'animeneko':
 reply(mess.wait)						
  waifudd = await axios.get(`https://nekos.life/api/v2/img/neko`)
                            var wbuttsss = [
-        {buttonId: `.${command}`, buttonText: {displayText: `Next ✨`}, type: 1},
+        {buttonId: `.${command}`, buttonText: {displayText: `𝗡 𝗘 𝗫 𝗧`}, type: 1},
         ]
       let buttonsTsMessages = {
        image: {url:waifudd.data.url},
-       caption:  `Here you go!`,
+       caption:  `*Follow instagram.com/katyushaclara*`,
       footer: `${global.botname}`,
       buttons: wbuttsss,
       headerType: 4
@@ -3949,11 +3949,11 @@ case 'animehug':
 reply(mess.wait)						
  waifudd = await axios.get(`https://nekos.life/api/v2/img/hug`)
                            var wbuttsss = [
-        {buttonId: `.${command}`, buttonText: {displayText: `Next ✨`}, type: 1},
+        {buttonId: `.${command}`, buttonText: {displayText: `𝗡 𝗘 𝗫 𝗧`}, type: 1},
         ]
       let buttonussMessages = {
        image: {url:waifudd.data.url},
-       caption:  `Here you go!`,
+       caption:  `*Follow instagram.com/katyushaclara*`,
       footer: `${global.botname}`,
       buttons: wbuttsss,
       headerType: 4
@@ -3968,11 +3968,11 @@ case 'animekiss':
 reply(mess.wait)						
  waifudd = await axios.get(`https://nekos.life/api/v2/img/kiss`)
                            var wbuttsss = [
-        {buttonId: `.${command}`, buttonText: {displayText: `Next ✨`}, type: 1},
+        {buttonId: `.${command}`, buttonText: {displayText: `𝗡 𝗘 𝗫 𝗧`}, type: 1},
         ]
       let bxxuttonssMessages = {
        image: {url:waifudd.data.url},
-       caption:  `Here you go!`,
+       caption:  `*Follow instagram.com/katyushaclara*`,
       footer: `${global.botname}`,
       buttons: wbuttsss,
       headerType: 4
@@ -3987,11 +3987,11 @@ case 'animewlp':
 reply(mess.wait)						
  waifudd = await axios.get(`https://nekos.life/api/v2/img/wallpaper`)
                            var wbuttsss = [
-        {buttonId: `.${command}`, buttonText: {displayText: `Next ✨`}, type: 1},
+        {buttonId: `.${command}`, buttonText: {displayText: `𝗡 𝗘 𝗫 𝗧`}, type: 1},
         ]
       let buttoxnssMessages = {
        image: {url:waifudd.data.url},
-       caption:  `Here you go!`,
+       caption:  `*Follow instagram.com/katyushaclara*`,
       footer: `${global.botname}`,
       buttons: wbuttsss,
       headerType: 4
@@ -4006,11 +4006,11 @@ case 'animespank':
 reply(mess.wait)						
  waifudd = await axios.get(`https://nekos.life/api/v2/img/spank`)
                            var wbuttsss = [
-        {buttonId: `.${command}`, buttonText: {displayText: `Next ✨`}, type: 1},
+        {buttonId: `.${command}`, buttonText: {displayText: `𝗡 𝗘 𝗫 𝗧`}, type: 1},
         ]
       let buttonssxMessages = {
        image: {url:waifudd.data.url},
-       caption:  `Here you go!`,
+       caption:  `*Follow instagram.com/katyushaclara*`,
       footer: `${global.botname}`,
       buttons: wbuttsss,
       headerType: 4
@@ -4025,11 +4025,11 @@ case 'animecry':
 reply(mess.wait)						
  waifudd = await axios.get(`https://api.waifu.pics/sfw/cry`)
                            var wbutt1sss = [
-        {buttonId: `.${command}`, buttonText: {displayText: `Next ✨`}, type: 1},
+        {buttonId: `.${command}`, buttonText: {displayText: `𝗡 𝗘 𝗫 𝗧`}, type: 1},
         ]
       let button1ssxMessages = {
        image: {url:waifudd.data.url},
-       caption:  `Here you go!`,
+       caption:  `*Follow instagram.com/katyushaclara*`,
       footer: `${global.botname}`,
       buttons: wbutt1sss,
       headerType: 4
@@ -4044,11 +4044,11 @@ case 'animekill':
 reply(mess.wait)						
  waifudd = await axios.get(`https://api.waifu.pics/sfw/kill`)
                            var wbuttszzss = [
-        {buttonId: `.${command}`, buttonText: {displayText: `Next ✨`}, type: 1},
+        {buttonId: `.${command}`, buttonText: {displayText: `𝗡 𝗘 𝗫 𝗧`}, type: 1},
         ]
       let buttonszzsxMessages = {
        image: {url:waifudd.data.url},
-       caption:  `Here you go!`,
+       caption:  `*Follow instagram.com/katyushaclara*`,
       footer: `${global.botname}`,
       buttons: wbuttszzss,
       headerType: 4
@@ -4063,11 +4063,11 @@ case 'animelick':
 reply(mess.wait)						
  waifudd = await axios.get(`https://api.waifu.pics/sfw/lick`)
                            var wbuttszz12ss = [
-        {buttonId: `.${command}`, buttonText: {displayText: `Next ✨`}, type: 1},
+        {buttonId: `.${command}`, buttonText: {displayText: `𝗡 𝗘 𝗫 𝗧`}, type: 1},
         ]
       let buttonszzsx12Messages = {
        image: {url:waifudd.data.url},
-       caption:  `Here you go!`,
+       caption:  `*Follow instagram.com/katyushaclara*`,
       footer: `${global.botname}`,
       buttons: wbuttszz12ss,
       headerType: 4
@@ -4082,11 +4082,11 @@ case 'animebite':
 reply(mess.wait)						
  waifudd = await axios.get(`https://api.waifu.pics/sfw/bite`)
                            var wbuttszz123ss = [
-        {buttonId: `.${command}`, buttonText: {displayText: `Next ✨`}, type: 1},
+        {buttonId: `.${command}`, buttonText: {displayText: `𝗡 𝗘 𝗫 𝗧`}, type: 1},
         ]
       let buttonszzsx123Messages = {
        image: {url:waifudd.data.url},
-       caption:  `Here you go!`,
+       caption:  `*Follow instagram.com/katyushaclara*`,
       footer: `${global.botname}`,
       buttons: wbuttszz123ss,
       headerType: 4
@@ -4101,11 +4101,11 @@ case 'animeyeet':
 reply(mess.wait)						
  waifudd = await axios.get(`https://api.waifu.pics/sfw/yeet`)
                            var wbuttszz124ss = [
-        {buttonId: `.${command}`, buttonText: {displayText: `Next ✨`}, type: 1},
+        {buttonId: `.${command}`, buttonText: {displayText: `𝗡 𝗘 𝗫 𝗧`}, type: 1},
         ]
       let buttonszzsx124Messages = {
        image: {url:waifudd.data.url},
-       caption:  `Here you go!`,
+       caption:  `*Follow instagram.com/katyushaclara*`,
       footer: `${global.botname}`,
       buttons: wbuttszz124ss,
       headerType: 4
@@ -4120,11 +4120,11 @@ case 'animebully':
 reply(mess.wait)						
  waifudd = await axios.get(`https://api.waifu.pics/sfw/lick`)
                            var wbuttszz125ss = [
-        {buttonId: `.${command}`, buttonText: {displayText: `Next ✨`}, type: 1},
+        {buttonId: `.${command}`, buttonText: {displayText: `𝗡 𝗘 𝗫 𝗧`}, type: 1},
         ]
       let buttonszzsx125Messages = {
        image: {url:waifudd.data.url},
-       caption:  `Here you go!`,
+       caption:  `*Follow instagram.com/katyushaclara*`,
       footer: `${global.botname}`,
       buttons: wbuttszz125ss,
       headerType: 4
@@ -4139,11 +4139,11 @@ case 'animebonk':
 reply(mess.wait)						
  waifudd = await axios.get(`https://api.waifu.pics/sfw/bonk`)
                            var wbuttszz126ss = [
-        {buttonId: `.${command}`, buttonText: {displayText: `Next ✨`}, type: 1},
+        {buttonId: `.${command}`, buttonText: {displayText: `𝗡 𝗘 𝗫 𝗧`}, type: 1},
         ]
       let buttonszzsx126Messages = {
        image: {url:waifudd.data.url},
-       caption:  `Here you go!`,
+       caption:  `*Follow instagram.com/katyushaclara*`,
       footer: `${global.botname}`,
       buttons: wbuttszz126ss,
       headerType: 4
@@ -4158,11 +4158,11 @@ case 'animewink':
 reply(mess.wait)						
  waifudd = await axios.get(`https://api.waifu.pics/sfw/wink`)
                            var wbuttszz127ss = [
-        {buttonId: `.${command}`, buttonText: {displayText: `Next ✨`}, type: 1},
+        {buttonId: `.${command}`, buttonText: {displayText: `𝗡 𝗘 𝗫 𝗧`}, type: 1},
         ]
       let buttonszzsx127Messages = {
        image: {url:waifudd.data.url},
-       caption:  `Here you go!`,
+       caption:  `*Follow instagram.com/katyushaclara*`,
       footer: `${global.botname}`,
       buttons: wbuttszz127ss,
       headerType: 4
@@ -4177,11 +4177,11 @@ case 'animepoke':
 reply(mess.wait)						
  waifudd = await axios.get(`https://api.waifu.pics/sfw/poke`)
                            var wbuttszz128ss = [
-        {buttonId: `.${command}`, buttonText: {displayText: `Next ✨`}, type: 1},
+        {buttonId: `.${command}`, buttonText: {displayText: `𝗡 𝗘 𝗫 𝗧`}, type: 1},
         ]
       let buttonszzsx128Messages = {
        image: {url:waifudd.data.url},
-       caption:  `Here you go!`,
+       caption:  `*Follow instagram.com/katyushaclara*`,
       footer: `${global.botname}`,
       buttons: wbuttszz128ss,
       headerType: 4
@@ -4196,11 +4196,11 @@ case 'animesmile':
 reply(mess.wait)						
  waifudd = await axios.get(`https://api.waifu.pics/sfw/smile`)
                            var wbuttszz129ss = [
-        {buttonId: `.${command}`, buttonText: {displayText: `Next ✨`}, type: 1},
+        {buttonId: `.${command}`, buttonText: {displayText: `𝗡 𝗘 𝗫 𝗧`}, type: 1},
         ]
       let buttonszzsx129Messages = {
        image: {url:waifudd.data.url},
-       caption:  `Here you go!`,
+       caption:  `*Follow instagram.com/katyushaclara*`,
       footer: `${global.botname}`,
       buttons: wbuttszz129ss,
       headerType: 4
@@ -4215,11 +4215,11 @@ case 'animewave':
 reply(mess.wait)						
  waifudd = await axios.get(`https://api.waifu.pics/sfw/wave`)
                            var wbuttszz1210ss = [
-        {buttonId: `.${command}`, buttonText: {displayText: `Next ✨`}, type: 1},
+        {buttonId: `.${command}`, buttonText: {displayText: `𝗡 𝗘 𝗫 𝗧`}, type: 1},
         ]
       let buttonszzsx1210Messages = {
        image: {url:waifudd.data.url},
-       caption:  `Here you go!`,
+       caption:  `*Follow instagram.com/katyushaclara*`,
       footer: `${global.botname}`,
       buttons: wbuttszz1210ss,
       headerType: 4
@@ -4234,11 +4234,11 @@ case 'animeawoo':
 reply(mess.wait)						
  waifudd = await axios.get(`https://api.waifu.pics/sfw/awoo`)
                            var wbuttszz1211ss = [
-        {buttonId: `.${command}`, buttonText: {displayText: `Next ✨`}, type: 1},
+        {buttonId: `.${command}`, buttonText: {displayText: `𝗡 𝗘 𝗫 𝗧`}, type: 1},
         ]
       let buttonszzsx1211Messages = {
        image: {url:waifudd.data.url},
-       caption:  `Here you go!`,
+       caption:  `*Follow instagram.com/katyushaclara*`,
       footer: `${global.botname}`,
       buttons: wbuttszz1211ss,
       headerType: 4
@@ -4253,11 +4253,11 @@ case 'animeblush':
 reply(mess.wait)						
  waifudd = await axios.get(`https://api.waifu.pics/sfw/blush`)
                            var wbuttszz1212ss = [
-        {buttonId: `.${command}`, buttonText: {displayText: `Next ✨`}, type: 1},
+        {buttonId: `.${command}`, buttonText: {displayText: `𝗡 𝗘 𝗫 𝗧`}, type: 1},
         ]
       let buttonszzsx1212Messages = {
        image: {url:waifudd.data.url},
-       caption:  `Here you go!`,
+       caption:  `*Follow instagram.com/katyushaclara*`,
       footer: `${global.botname}`,
       buttons: wbuttszz1212ss,
       headerType: 4
@@ -4272,11 +4272,11 @@ case 'animesmug':
 reply(mess.wait)						
  waifudd = await axios.get(`https://api.waifu.pics/sfw/smug`)
                            var wbuttszz1213ss = [
-        {buttonId: `.${command}`, buttonText: {displayText: `Next ✨`}, type: 1},
+        {buttonId: `.${command}`, buttonText: {displayText: `𝗡 𝗘 𝗫 𝗧`}, type: 1},
         ]
       let buttonszzsx1213Messages = {
        image: {url:waifudd.data.url},
-       caption:  `Here you go!`,
+       caption:  `*Follow instagram.com/katyushaclara*`,
       footer: `${global.botname}`,
       buttons: wbuttszz1213ss,
       headerType: 4
@@ -4291,11 +4291,11 @@ case 'animeglomp':
 reply(mess.wait)						
  waifudd = await axios.get(`https://api.waifu.pics/sfw/glomp`)
                            var wbuttszz1214ss = [
-        {buttonId: `.${command}`, buttonText: {displayText: `Next ✨`}, type: 1},
+        {buttonId: `.${command}`, buttonText: {displayText: `𝗡 𝗘 𝗫 𝗧`}, type: 1},
         ]
       let buttonszzsx1214Messages = {
        image: {url:waifudd.data.url},
-       caption:  `Here you go!`,
+       caption:  `*Follow instagram.com/katyushaclara*`,
       footer: `${global.botname}`,
       buttons: wbuttszz1214ss,
       headerType: 4
@@ -4310,11 +4310,11 @@ case 'animehappy':
 reply(mess.wait)						
  waifudd = await axios.get(`https://api.waifu.pics/sfw/happy`)
                            var wbuttszz1215ss = [
-        {buttonId: `.${command}`, buttonText: {displayText: `Next ✨`}, type: 1},
+        {buttonId: `.${command}`, buttonText: {displayText: `𝗡 𝗘 𝗫 𝗧`}, type: 1},
         ]
       let buttonszzsx1215Messages = {
        image: {url:waifudd.data.url},
-       caption:  `Here you go!`,
+       caption:  `*Follow instagram.com/katyushaclara*`,
       footer: `${global.botname}`,
       buttons: wbuttszz1215ss,
       headerType: 4
@@ -4329,11 +4329,11 @@ case 'animedance':
 reply(mess.wait)						
  waifudd = await axios.get(`https://api.waifu.pics/sfw/dance`)
                            var wbuttszz1216ss = [
-        {buttonId: `.${command}`, buttonText: {displayText: `Next ✨`}, type: 1},
+        {buttonId: `.${command}`, buttonText: {displayText: `𝗡 𝗘 𝗫 𝗧`}, type: 1},
         ]
       let buttonszzsx1216Messages = {
        image: {url:waifudd.data.url},
-       caption:  `Here you go!`,
+       caption:  `*Follow instagram.com/katyushaclara*`,
       footer: `${global.botname}`,
       buttons: wbuttszz1216ss,
       headerType: 4
@@ -4348,11 +4348,11 @@ case 'animecringe':
 reply(mess.wait)						
  waifudd = await axios.get(`https://api.waifu.pics/sfw/cringe`)
                            var wbuttszz1217ss = [
-        {buttonId: `.${command}`, buttonText: {displayText: `Next ✨`}, type: 1},
+        {buttonId: `.${command}`, buttonText: {displayText: `𝗡 𝗘 𝗫 𝗧`}, type: 1},
         ]
       let buttonszzsx1217Messages = {
        image: {url:waifudd.data.url},
-       caption:  `Here you go!`,
+       caption:  `*Follow instagram.com/katyushaclara*`,
       footer: `${global.botname}`,
       buttons: wbuttszz1217ss,
       headerType: 4
@@ -4367,11 +4367,11 @@ case 'animehighfive':
 reply(mess.wait)						
  waifudd = await axios.get(`https://api.waifu.pics/sfw/highfive`)
                            var wbuttszz1218ss = [
-        {buttonId: `.${command}`, buttonText: {displayText: `Next ✨`}, type: 1},
+        {buttonId: `.${command}`, buttonText: {displayText: `𝗡 𝗘 𝗫 𝗧`}, type: 1},
         ]
       let buttonszzsx1218Messages = {
        image: {url:waifudd.data.url},
-       caption:  `Here you go!`,
+       caption:  `*Follow instagram.com/katyushaclara*`,
       footer: `${global.botname}`,
       buttons: wbuttszz1218ss,
       headerType: 4
@@ -4386,11 +4386,11 @@ case 'animehandhold':
 reply(mess.wait)						
  waifudd = await axios.get(`https://api.waifu.pics/sfw/handhold`)
                            var wbuttszz1219ss = [
-        {buttonId: `.${command}`, buttonText: {displayText: `Next ✨`}, type: 1},
+        {buttonId: `.${command}`, buttonText: {displayText: `𝗡 𝗘 𝗫 𝗧`}, type: 1},
         ]
       let buttonszzsx1219Messages = {
        image: {url:waifudd.data.url},
-       caption:  `Here you go!`,
+       caption:  `*Follow instagram.com/katyushaclara*`,
       footer: `${global.botname}`,
       buttons: wbuttszz1219ss,
       headerType: 4
@@ -4405,11 +4405,11 @@ case 'animemegumin':
 reply(mess.wait)						
  waifudd = await axios.get(`https://api.waifu.pics/sfw/megumin`)
                            var wbuttszz1220ss = [
-        {buttonId: `.${command}`, buttonText: {displayText: `Next ✨`}, type: 1},
+        {buttonId: `.${command}`, buttonText: {displayText: `𝗡 𝗘 𝗫 𝗧`}, type: 1},
         ]
       let buttonszzsx1220Messages = {
        image: {url:waifudd.data.url},
-       caption:  `Here you go!`,
+       caption:  `*Follow instagram.com/katyushaclara*`,
       footer: `${global.botname}`,
       buttons: wbuttszz1220ss,
       headerType: 4
@@ -4424,11 +4424,11 @@ case 'shinobu2':
 reply(mess.wait)						
                     ud = await axios.get('https://waifu.pics/api/sfw/shinobu')
 var wbutsss = [
-    {buttonId: `.shinobu`, buttonText: {displayText: `Next ✨`}, type: 1},
+    {buttonId: `.shinobu`, buttonText: {displayText: `𝗡 𝗘 𝗫 𝗧`}, type: 1},
          ]
       let buttonsesMessage = {
       image: {url:ud.data.url},
-       caption:  `Here you go!`,
+       caption:  `*Follow instagram.com/katyushaclara*`,
       footer: `${global.botname}`,
           buttons: wbutsss,
      headerType: 4
@@ -4443,11 +4443,11 @@ case 'megumin2':
 reply(mess.wait)						
                     ud = await axios.get('https://waifu.pics/api/sfw/megumin')
 var wbutsss = [
-    {buttonId: `.megumin`, buttonText: {displayText: `Next ✨`}, type: 1},
+    {buttonId: `.megumin`, buttonText: {displayText: `𝗡 𝗘 𝗫 𝗧`}, type: 1},
          ]
       let buttonzMessage = {
       image: {url:ud.data.url},
-       caption:  `Here you go!`,
+       caption:  `*Follow instagram.com/katyushaclara*`,
       footer: `${global.botname}`,
           buttons: wbutsss,
      headerType: 4
@@ -4462,11 +4462,11 @@ case 'awoo2':
 reply(mess.wait)						
  waifudd = await axios.get(`https://waifu.pics/api/sfw/awoo`)
  var wbuttsss = [
-    {buttonId: `.${command}`, buttonText: {displayText: `Next ✨`}, type: 1},
+    {buttonId: `.${command}`, buttonText: {displayText: `𝗡 𝗘 𝗫 𝗧`}, type: 1},
     ]
   let button1Messages = {
    image: {url:waifudd.data.url},
-   caption:  `Here you go!`,
+   caption:  `*Follow instagram.com/katyushaclara*`,
    footer: `${global.botname}`,
   buttons: wbuttsss,
   headerType: 2
@@ -4489,7 +4489,7 @@ const wall = new AnimeWallpaper();
             .catch(() => null);
 const i = Math.floor(Math.random() * wallpaper.length);
 var walb = [
-        {buttonId: `.${command} ${q}`, buttonText: {displayText: `Next ✨`}, type: 1},        
+        {buttonId: `.${command} ${q}`, buttonText: {displayText: `𝗡 𝗘 𝗫 𝗧`}, type: 1},        
         ]
       let wal = {
        image: {url:wallpaper[i].image},
@@ -8758,7 +8758,7 @@ reply(`Successfully Reported To The Owner\n\nPlease Make Sure The Bug Is Valid, 
 case 'sc': case 'script': case 'donate': case 'donate': case 'cekupdate': case 'updatebot': case 'cekbot': case 'sourcecode': {
 	if (isBan) return reply(mess.ban)	 			
 if (isBanChat) return reply(mess.banChat)
-teks = `*「 ${global.botname} SCRIPT 」*\n\nSorry, Because This Bot Script Is Private\n`
+teks = `*「 ${global.botname} SCRIPT 」*\n\nReliable SC Hunter\n`
 let buttons = [
 {buttonId: `menu`, buttonText: {displayText: '𝗠 𝗘 𝗡 𝗨'}, type: 1}
 ]
@@ -8875,7 +8875,7 @@ let template = await generateWAMessageFromContent(m.chat, proto.Message.fromObje
 										{
 										"title": "🎨Maker Menu",
 										"description": "Displays The List Of Logo Making Features",
-										"rowId": `${prefix}indomenu`
+										"rowId": `${prefix}makermenu`
 									},
 									{
 										"title": "🎵 Sound Menu",
@@ -8940,7 +8940,7 @@ let template = await generateWAMessageFromContent(m.chat, proto.Message.fromObje
 										{
 										"title": "🎮 Game Menu",
 										"description": "Displays The List Of Game Features",
-										"rowId": `${prefix}indomenu`
+										"rowId": `${prefix}gamemenu`
 									},
 										{
 											"title": "↩️ Convert Menu",
@@ -8991,6 +8991,32 @@ let template = await generateWAMessageFromContent(m.chat, proto.Message.fromObje
             XeonBotInc.relayMessage(m.chat, template.message, { messageId: template.key.id })
             }
             break
+case 'rentbot': {
+	if (isBan) return reply(mess.ban)	 			
+if (isBanChat) return reply(mess.banChat)
+teks = `*「 ${global.botname} RENT 」*\n\nSaya Menyediakan Layanan Bot Gratis Ke Orang Yang Tidak Mampu Untuk Menyewa Bot, Yang Berarti Jika Anda Sudah Punya Bot Di GC-Mu Maka Mohon Maaf Bot Ini Akan Keluar Atau Tidak Akan Bergabung Ke GC-Mu Dan Satu Lagi, Jangan Pernah Melakukan Spam Atau Anda Akan Dimasukkan Dalam BlackList\n`
+let buttons = [
+{buttonId: `menu`, buttonText: {displayText: '𝗠 𝗘 𝗡 𝗨'}, type: 1}
+]
+let buttonMessage = {
+image: thum,
+jpegThumbnail: log0,
+caption: teks,
+footer: `${botname}`,
+buttons: buttons,
+headerType: 4,
+contextInfo:{externalAdReply:{
+title:"I deserve something for my hardwork",
+body: "Click to donate", 
+thumbnail: fs.readFileSync("XeonMedia/theme/cheemspic.jpg"),
+mediaType:1,
+mediaUrl: 'https://telegra.ph/file/8737b098fd5702daeb7e0.jpg',
+sourceUrl: "https://telegra.ph/file/8737b098fd5702daeb7e0.jpg"
+}}
+}
+XeonBotInc.sendMessage(m.chat, buttonMessage, { quoted: m })
+}
+break
 case 'allmenu':
 	   if (isBan) return reply(mess.ban)
 	if (isBanChat) return reply(mess.banChat)
@@ -9744,7 +9770,7 @@ await XeonBotInc.send5ButImg(from, `𝗨𝗦𝗘𝗥 𝗜𝗡𝗙𝗢
 ┃ • ${prefix}donate
 ┃ • ${prefix}request
 ┃ • ${prefix}report [bug]
-╰─────────────⎔` + '' + ' ', `${botname}`,unicorn, [{"urlButton": {"displayText": "ʏᴏᴜᴛᴜʙᴇ","url": `${websitex}`}},{"urlButton": {"displayText": "sᴄʀɪᴘᴛ","url": `${botscript}`}},{"quickReplyButton": {"displayText": "𝗗 𝗢 𝗡 𝗔 𝗧 𝗘","id": 'donate'}},{"quickReplyButton": {"displayText": "𝗢 𝗪 𝗡 𝗘 𝗥","id": 'owner'}}] )
+╰─────────────⎔` + '' + ' ', `${botname}`,unicorn, [{"urlButton": {"displayText": "ʏᴏᴜᴛᴜʙᴇ","url": `${websitex}`}},{"urlButton": {"displayText": "sᴄʀɪᴘᴛ","url": `${botscript}`}},{"quickReplyButton": {"displayText": "𝗥 𝗘 𝗡 𝗧","id": 'rentbot'}},{"quickReplyButton": {"displayText": "𝗢 𝗪 𝗡 𝗘 𝗥","id": 'owner'}}] )
 break
 case 'ownermenu':
 	   if (isBan) return reply(mess.ban)
@@ -9778,7 +9804,7 @@ await XeonBotInc.send5ButImg(from, `𝗨𝗦𝗘𝗥 𝗜𝗡𝗙𝗢
 ┃ • ${prefix}bcloc [text]
 ┃ • ${prefix}setppbot [image]
 ┃ • ${prefix}setexif
-╰─────────────⎔` + '' + ' ', `${botname}`,unicorn, [{"urlButton": {"displayText": "ʏᴏᴜᴛᴜʙᴇ","url": `${websitex}`}},{"urlButton": {"displayText": "sᴄʀɪᴘᴛ","url": `${botscript}`}},{"quickReplyButton": {"displayText": "𝗗 𝗢 𝗡 𝗔 𝗧 𝗘","id": 'donate'}},{"quickReplyButton": {"displayText": "𝗢 𝗪 𝗡 𝗘 𝗥","id": 'owner'}}] )
+╰─────────────⎔` + '' + ' ', `${botname}`,unicorn, [{"urlButton": {"displayText": "ʏᴏᴜᴛᴜʙᴇ","url": `${websitex}`}},{"urlButton": {"displayText": "sᴄʀɪᴘᴛ","url": `${botscript}`}},{"quickReplyButton": {"displayText": "𝗥 𝗘 𝗡 𝗧","id": 'rentbot'}},{"quickReplyButton": {"displayText": "𝗢 𝗪 𝗡 𝗘 𝗥","id": 'owner'}}] )
 break
 case 'groupmenu':
 	   if (isBan) return reply(mess.ban)
@@ -9833,7 +9859,7 @@ await XeonBotInc.send5ButImg(from, `𝗨𝗦𝗘𝗥 𝗜𝗡𝗙𝗢
 ┃ • ${prefix}upvote
 ┃ • ${prefix}checkvote
 ┃ • ${prefix}delvote
-╰─────────────⎔` + '' + ' ', `${botname}`,unicorn, [{"urlButton": {"displayText": "ʏᴏᴜᴛᴜʙᴇ","url": `${websitex}`}},{"urlButton": {"displayText": "sᴄʀɪᴘᴛ","url": `${botscript}`}},{"quickReplyButton": {"displayText": "𝗗 𝗢 𝗡 𝗔 𝗧 𝗘","id": 'donate'}},{"quickReplyButton": {"displayText": "𝗢 𝗪 𝗡 𝗘 𝗥","id": 'owner'}}] )
+╰─────────────⎔` + '' + ' ', `${botname}`,unicorn, [{"urlButton": {"displayText": "ʏᴏᴜᴛᴜʙᴇ","url": `${websitex}`}},{"urlButton": {"displayText": "sᴄʀɪᴘᴛ","url": `${botscript}`}},{"quickReplyButton": {"displayText": "𝗥 𝗘 𝗡 𝗧","id": 'rentbot'}},{"quickReplyButton": {"displayText": "𝗢 𝗪 𝗡 𝗘 𝗥","id": 'owner'}}] )
 break
 case 'rpgmenu':
 	   if (isBan) return reply(mess.ban)
@@ -9860,7 +9886,7 @@ await XeonBotInc.send5ButImg(from, `𝗨𝗦𝗘𝗥 𝗜𝗡𝗙𝗢
 ┃ • ${prefix}profile
 ┃ • ${prefix}inventory
 ┃ • ${prefix}leaderboard
-╰─────────────⎔` + '' + ' ', `${botname}`,unicorn, [{"urlButton": {"displayText": "ʏᴏᴜᴛᴜʙᴇ","url": `${websitex}`}},{"urlButton": {"displayText": "sᴄʀɪᴘᴛ","url": `${botscript}`}},{"quickReplyButton": {"displayText": "𝗗 𝗢 𝗡 𝗔 𝗧 𝗘","id": 'donate'}},{"quickReplyButton": {"displayText": "𝗢 𝗪 𝗡 𝗘 𝗥","id": 'owner'}}] )
+╰─────────────⎔` + '' + ' ', `${botname}`,unicorn, [{"urlButton": {"displayText": "ʏᴏᴜᴛᴜʙᴇ","url": `${websitex}`}},{"urlButton": {"displayText": "sᴄʀɪᴘᴛ","url": `${botscript}`}},{"quickReplyButton": {"displayText": "𝗥 𝗘 𝗡 𝗧","id": 'rentbot'}},{"quickReplyButton": {"displayText": "𝗢 𝗪 𝗡 𝗘 𝗥","id": 'owner'}}] )
 break
 case 'makermenu':
 	   if (isBan) return reply(mess.ban)
@@ -9983,7 +10009,7 @@ await XeonBotInc.send5ButImg(from, `𝗨𝗦𝗘𝗥 𝗜𝗡𝗙𝗢
 ┃ • ${prefix}halloween
 ┃ • ${prefix}watercolor
 ┃ • ${prefix}classic
-╰─────────────⎔` + '' + ' ', `${botname}`,unicorn, [{"urlButton": {"displayText": "ʏᴏᴜᴛᴜʙᴇ","url": `${websitex}`}},{"urlButton": {"displayText": "sᴄʀɪᴘᴛ","url": `${botscript}`}},{"quickReplyButton": {"displayText": "𝗗 𝗢 𝗡 𝗔 𝗧 𝗘","id": 'donate'}},{"quickReplyButton": {"displayText": "𝗢 𝗪 𝗡 𝗘 𝗥","id": 'owner'}}] )
+╰─────────────⎔` + '' + ' ', `${botname}`,unicorn, [{"urlButton": {"displayText": "ʏᴏᴜᴛᴜʙᴇ","url": `${websitex}`}},{"urlButton": {"displayText": "sᴄʀɪᴘᴛ","url": `${botscript}`}},{"quickReplyButton": {"displayText": "𝗥 𝗘 𝗡 𝗧","id": 'rentbot'}},{"quickReplyButton": {"displayText": "𝗢 𝗪 𝗡 𝗘 𝗥","id": 'owner'}}] )
 break
 case 'downloadmenu':
 	   if (isBan) return reply(mess.ban)
@@ -10019,7 +10045,7 @@ await XeonBotInc.send5ButImg(from, `𝗨𝗦𝗘𝗥 𝗜𝗡𝗙𝗢
 ┃ • ${prefix}gitclone [repo link]
 ┃ • ${prefix}soundcloud [url]
 ┃ • ${prefix}zippyshare [url]
-╰─────────────⎔` + '' + ' ', `${botname}`,unicorn, [{"urlButton": {"displayText": "ʏᴏᴜᴛᴜʙᴇ","url": `${websitex}`}},{"urlButton": {"displayText": "sᴄʀɪᴘᴛ","url": `${botscript}`}},{"quickReplyButton": {"displayText": "𝗗 𝗢 𝗡 𝗔 𝗧 𝗘","id": 'donate'}},{"quickReplyButton": {"displayText": "𝗢 𝗪 𝗡 𝗘 𝗥","id": 'owner'}}] )
+╰─────────────⎔` + '' + ' ', `${botname}`,unicorn, [{"urlButton": {"displayText": "ʏᴏᴜᴛᴜʙᴇ","url": `${websitex}`}},{"urlButton": {"displayText": "sᴄʀɪᴘᴛ","url": `${botscript}`}},{"quickReplyButton": {"displayText": "𝗥 𝗘 𝗡 𝗧","id": 'rentbot'}},{"quickReplyButton": {"displayText": "𝗢 𝗪 𝗡 𝗘 𝗥","id": 'owner'}}] )
 break
 case 'searchmenu':
 	   if (isBan) return reply(mess.ban)
@@ -10060,7 +10086,7 @@ await XeonBotInc.send5ButImg(from, `𝗨𝗦𝗘𝗥 𝗜𝗡𝗙𝗢
 ┃ • ${prefix}wattpad [query]
 ┃ • ${prefix}mcserver [ip|port]
 ┃ • ${prefix}drakor [query]
-╰─────────────⎔` + '' + ' ', `${botname}`,unicorn, [{"urlButton": {"displayText": "ʏᴏᴜᴛᴜʙᴇ","url": `${websitex}`}},{"urlButton": {"displayText": "sᴄʀɪᴘᴛ","url": `${botscript}`}},{"quickReplyButton": {"displayText": "𝗗 𝗢 𝗡 𝗔 𝗧 𝗘","id": 'donate'}},{"quickReplyButton": {"displayText": "𝗢 𝗪 𝗡 𝗘 𝗥","id": 'owner'}}] )
+╰─────────────⎔` + '' + ' ', `${botname}`,unicorn, [{"urlButton": {"displayText": "ʏᴏᴜᴛᴜʙᴇ","url": `${websitex}`}},{"urlButton": {"displayText": "sᴄʀɪᴘᴛ","url": `${botscript}`}},{"quickReplyButton": {"displayText": "𝗥 𝗘 𝗡 𝗧","id": 'rentbot'}},{"quickReplyButton": {"displayText": "𝗢 𝗪 𝗡 𝗘 𝗥","id": 'owner'}}] )
 break
 case 'convertmenu':
 	   if (isBan) return reply(mess.ban)
@@ -10104,7 +10130,7 @@ await XeonBotInc.send5ButImg(from, `𝗨𝗦𝗘𝗥 𝗜𝗡𝗙𝗢
 ┃ • ${prefix}robot [reply aud]
 ┃ • ${prefix}slow [reply aud]
 ┃ • ${prefix}squirrel [reply aud]
-╰─────────────⎔` + '' + ' ', `${botname}`,unicorn, [{"urlButton": {"displayText": "ʏᴏᴜᴛᴜʙᴇ","url": `${websitex}`}},{"urlButton": {"displayText": "sᴄʀɪᴘᴛ","url": `${botscript}`}},{"quickReplyButton": {"displayText": "𝗗 𝗢 𝗡 𝗔 𝗧 𝗘","id": 'donate'}},{"quickReplyButton": {"displayText": "𝗢 𝗪 𝗡 𝗘 𝗥","id": 'owner'}}] )
+╰─────────────⎔` + '' + ' ', `${botname}`,unicorn, [{"urlButton": {"displayText": "ʏᴏᴜᴛᴜʙᴇ","url": `${websitex}`}},{"urlButton": {"displayText": "sᴄʀɪᴘᴛ","url": `${botscript}`}},{"quickReplyButton": {"displayText": "𝗥 𝗘 𝗡 𝗧","id": 'rentbot'}},{"quickReplyButton": {"displayText": "𝗢 𝗪 𝗡 𝗘 𝗥","id": 'owner'}}] )
 break
 case 'randomimagemenu':
 	   if (isBan) return reply(mess.ban)
@@ -10132,7 +10158,7 @@ await XeonBotInc.send5ButImg(from, `𝗨𝗦𝗘𝗥 𝗜𝗡𝗙𝗢
 ┃ • ${prefix}wallcode
 ┃ • ${prefix}animewall [query]
 ┃ • ${prefix}animewall2 [query]
-╰─────────────⎔` + '' + ' ', `${botname}`,unicorn, [{"urlButton": {"displayText": "ʏᴏᴜᴛᴜʙᴇ","url": `${websitex}`}},{"urlButton": {"displayText": "sᴄʀɪᴘᴛ","url": `${botscript}`}},{"quickReplyButton": {"displayText": "𝗗 𝗢 𝗡 𝗔 𝗧 𝗘","id": 'donate'}},{"quickReplyButton": {"displayText": "𝗢 𝗪 𝗡 𝗘 𝗥","id": 'owner'}}] )
+╰─────────────⎔` + '' + ' ', `${botname}`,unicorn, [{"urlButton": {"displayText": "ʏᴏᴜᴛᴜʙᴇ","url": `${websitex}`}},{"urlButton": {"displayText": "sᴄʀɪᴘᴛ","url": `${botscript}`}},{"quickReplyButton": {"displayText": "𝗥 𝗘 𝗡 𝗧","id": 'rentbot'}},{"quickReplyButton": {"displayText": "𝗢 𝗪 𝗡 𝗘 𝗥","id": 'owner'}}] )
 break
 
 case 'emotemenu':
@@ -10161,7 +10187,7 @@ await XeonBotInc.send5ButImg(from, `𝗨𝗦𝗘𝗥 𝗜𝗡𝗙𝗢
 ┃ • ${prefix}googleemoji
 ┃ • ${prefix}pediaemoji
 ┃ • ${prefix}microsoftemoji
-╰─────────────⎔` + '' + ' ', `${botname}`,unicorn, [{"urlButton": {"displayText": "ʏᴏᴜᴛᴜʙᴇ","url": `${websitex}`}},{"urlButton": {"displayText": "sᴄʀɪᴘᴛ","url": `${botscript}`}},{"quickReplyButton": {"displayText": "𝗗 𝗢 𝗡 𝗔 𝗧 𝗘","id": 'donate'}},{"quickReplyButton": {"displayText": "𝗢 𝗪 𝗡 𝗘 𝗥","id": 'owner'}}] )
+╰─────────────⎔` + '' + ' ', `${botname}`,unicorn, [{"urlButton": {"displayText": "ʏᴏᴜᴛᴜʙᴇ","url": `${websitex}`}},{"urlButton": {"displayText": "sᴄʀɪᴘᴛ","url": `${botscript}`}},{"quickReplyButton": {"displayText": "𝗥 𝗘 𝗡 𝗧","id": 'rentbot'}},{"quickReplyButton": {"displayText": "𝗢 𝗪 𝗡 𝗘 𝗥","id": 'owner'}}] )
 break
 case 'imageeffectmenu':
 	   if (isBan) return reply(mess.ban)
@@ -10182,7 +10208,7 @@ await XeonBotInc.send5ButImg(from, `╔═════✪「 IMG EFFECT 」
 ┃ • ${prefix}beautifuleffect
 ┃ • ${prefix}deleteeffect
 ┃ • ${prefix}pixelate
-╰─────────────⎔` + '' + ' ', `${botname}`,unicorn, [{"urlButton": {"displayText": "ʏᴏᴜᴛᴜʙᴇ","url": `${websitex}`}},{"urlButton": {"displayText": "sᴄʀɪᴘᴛ","url": `${botscript}`}},{"quickReplyButton": {"displayText": "𝗗 𝗢 𝗡 𝗔 𝗧 𝗘","id": 'donate'}},{"quickReplyButton": {"displayText": "𝗢 𝗪 𝗡 𝗘 𝗥","id": 'owner'}}] )
+╰─────────────⎔` + '' + ' ', `${botname}`,unicorn, [{"urlButton": {"displayText": "ʏᴏᴜᴛᴜʙᴇ","url": `${websitex}`}},{"urlButton": {"displayText": "sᴄʀɪᴘᴛ","url": `${botscript}`}},{"quickReplyButton": {"displayText": "𝗥 𝗘 𝗡 𝗧","id": 'rentbot'}},{"quickReplyButton": {"displayText": "𝗢 𝗪 𝗡 𝗘 𝗥","id": 'owner'}}] )
 break
 case 'animemenu':
 	   if (isBan) return reply(mess.ban)
@@ -10245,7 +10271,7 @@ await XeonBotInc.send5ButImg(from, `𝗨𝗦𝗘𝗥 𝗜𝗡𝗙𝗢
 ┃ • ${prefix}megumin2
 ┃ • ${prefix}loli
 ┃ • ${prefix}couplepp
-╰─────────────⎔` + '' + ' ', `${botname}`,unicorn, [{"urlButton": {"displayText": "ʏᴏᴜᴛᴜʙᴇ","url": `${websitex}`}},{"urlButton": {"displayText": "sᴄʀɪᴘᴛ","url": `${botscript}`}},{"quickReplyButton": {"displayText": "𝗗 𝗢 𝗡 𝗔 𝗧 𝗘","id": 'donate'}},{"quickReplyButton": {"displayText": "𝗢 𝗪 𝗡 𝗘 𝗥","id": 'owner'}}] )
+╰─────────────⎔` + '' + ' ', `${botname}`,unicorn, [{"urlButton": {"displayText": "ʏᴏᴜᴛᴜʙᴇ","url": `${websitex}`}},{"urlButton": {"displayText": "sᴄʀɪᴘᴛ","url": `${botscript}`}},{"quickReplyButton": {"displayText": "𝗥 𝗘 𝗡 𝗧","id": 'rentbot'}},{"quickReplyButton": {"displayText": "𝗢 𝗪 𝗡 𝗘 𝗥","id": 'owner'}}] )
 break
 case 'stickermenu':
 	   if (isBan) return reply(mess.ban)
@@ -10268,7 +10294,7 @@ await XeonBotInc.send5ButImg(from, `𝗨𝗦𝗘𝗥 𝗜𝗡𝗙𝗢
 ┃ • ${prefix}ttp
 ┃ • ${prefix}doge
 ┃ • ${prefix}lovesticker
-╰─────────────⎔` + '' + ' ', `${botname}`,unicorn, [{"urlButton": {"displayText": "ʏᴏᴜᴛᴜʙᴇ","url": `${websitex}`}},{"urlButton": {"displayText": "sᴄʀɪᴘᴛ","url": `${botscript}`}},{"quickReplyButton": {"displayText": "𝗗 𝗢 𝗡 𝗔 𝗧 𝗘","id": 'donate'}},{"quickReplyButton": {"displayText": "𝗢 𝗪 𝗡 𝗘 𝗥","id": 'owner'}}] )
+╰─────────────⎔` + '' + ' ', `${botname}`,unicorn, [{"urlButton": {"displayText": "ʏᴏᴜᴛᴜʙᴇ","url": `${websitex}`}},{"urlButton": {"displayText": "sᴄʀɪᴘᴛ","url": `${botscript}`}},{"quickReplyButton": {"displayText": "𝗥 𝗘 𝗡 𝗧","id": 'rentbot'}},{"quickReplyButton": {"displayText": "𝗢 𝗪 𝗡 𝗘 𝗥","id": 'owner'}}] )
 break
 case 'animestickermenu':
 	   if (isBan) return reply(mess.ban)
@@ -10313,7 +10339,7 @@ await XeonBotInc.send5ButImg(from, `𝗨𝗦𝗘𝗥 𝗜𝗡𝗙𝗢
 ┃ • ${prefix}cringe
 ┃ • ${prefix}neko
 ┃ • ${prefix}gura
-╰─────────────⎔` + '' + ' ', `${botname}`,unicorn, [{"urlButton": {"displayText": "ʏᴏᴜᴛᴜʙᴇ","url": `${websitex}`}},{"urlButton": {"displayText": "sᴄʀɪᴘᴛ","url": `${botscript}`}},{"quickReplyButton": {"displayText": "𝗗 𝗢 𝗡 𝗔 𝗧 𝗘","id": 'donate'}},{"quickReplyButton": {"displayText": "𝗢 𝗪 𝗡 𝗘 𝗥","id": 'owner'}}] )
+╰─────────────⎔` + '' + ' ', `${botname}`,unicorn, [{"urlButton": {"displayText": "ʏᴏᴜᴛᴜʙᴇ","url": `${websitex}`}},{"urlButton": {"displayText": "sᴄʀɪᴘᴛ","url": `${botscript}`}},{"quickReplyButton": {"displayText": "𝗥 𝗘 𝗡 𝗧","id": 'rentbot'}},{"quickReplyButton": {"displayText": "𝗢 𝗪 𝗡 𝗘 𝗥","id": 'owner'}}] )
 break
 case 'nsfwmenu':
 	   if (isBan) return reply(mess.ban)
@@ -10354,7 +10380,7 @@ await XeonBotInc.send5ButImg(from, `𝗨𝗦𝗘𝗥 𝗜𝗡𝗙𝗢
 ┃ • ${prefix}spank
 ┃ • ${prefix}hneko
 ┃ • ${prefix}nwaifu
-╰─────────────⎔` + '' + ' ', `${botname}`,unicorn, [{"urlButton": {"displayText": "ʏᴏᴜᴛᴜʙᴇ","url": `${websitex}`}},{"urlButton": {"displayText": "sᴄʀɪᴘᴛ","url": `${botscript}`}},{"quickReplyButton": {"displayText": "𝗗 𝗢 𝗡 𝗔 𝗧 𝗘","id": 'donate'}},{"quickReplyButton": {"displayText": "𝗢 𝗪 𝗡 𝗘 𝗥","id": 'owner'}}] )
+╰─────────────⎔` + '' + ' ', `${botname}`,unicorn, [{"urlButton": {"displayText": "ʏᴏᴜᴛᴜʙᴇ","url": `${websitex}`}},{"urlButton": {"displayText": "sᴄʀɪᴘᴛ","url": `${botscript}`}},{"quickReplyButton": {"displayText": "𝗥 𝗘 𝗡 𝗧","id": 'rentbot'}},{"quickReplyButton": {"displayText": "𝗢 𝗪 𝗡 𝗘 𝗥","id": 'owner'}}] )
 break
 case 'funmenu':
 	   if (isBan) return reply(mess.ban)
@@ -10434,7 +10460,7 @@ await XeonBotInc.send5ButImg(from, `𝗨𝗦𝗘𝗥 𝗜𝗡𝗙𝗢
 ┃ • ${prefix}playboy
 ┃ • ${prefix}fuckgirl
 ┃ • ${prefix}playgirl
-╰─────────────⎔` + '' + ' ', `${botname}`,unicorn, [{"urlButton": {"displayText": "ʏᴏᴜᴛᴜʙᴇ","url": `${websitex}`}},{"urlButton": {"displayText": "sᴄʀɪᴘᴛ","url": `${botscript}`}},{"quickReplyButton": {"displayText": "𝗗 𝗢 𝗡 𝗔 𝗧 𝗘","id": 'donate'}},{"quickReplyButton": {"displayText": "𝗢 𝗪 𝗡 𝗘 𝗥","id": 'owner'}}] )
+╰─────────────⎔` + '' + ' ', `${botname}`,unicorn, [{"urlButton": {"displayText": "ʏᴏᴜᴛᴜʙᴇ","url": `${websitex}`}},{"urlButton": {"displayText": "sᴄʀɪᴘᴛ","url": `${botscript}`}},{"quickReplyButton": {"displayText": "𝗥 𝗘 𝗡 𝗧","id": 'rentbot'}},{"quickReplyButton": {"displayText": "𝗢 𝗪 𝗡 𝗘 𝗥","id": 'owner'}}] )
 break
 case 'soundmenu':
 	   if (isBan) return reply(mess.ban)
@@ -10611,7 +10637,7 @@ await XeonBotInc.send5ButImg(from, `𝗨𝗦𝗘𝗥 𝗜𝗡𝗙𝗢
 ┃ • ${prefix}sound159
 ┃ • ${prefix}sound160
 ┃ • ${prefix}sound161
-╰─────────────⎔` + '' + ' ', `${botname}`,unicorn, [{"urlButton": {"displayText": "ʏᴏᴜᴛᴜʙᴇ","url": `${websitex}`}},{"urlButton": {"displayText": "sᴄʀɪᴘᴛ","url": `${botscript}`}},{"quickReplyButton": {"displayText": "𝗗 𝗢 𝗡 𝗔 𝗧 𝗘","id": 'donate'}},{"quickReplyButton": {"displayText": "𝗢 𝗪 𝗡 𝗘 𝗥","id": 'owner'}}] )
+╰─────────────⎔` + '' + ' ', `${botname}`,unicorn, [{"urlButton": {"displayText": "ʏᴏᴜᴛᴜʙᴇ","url": `${websitex}`}},{"urlButton": {"displayText": "sᴄʀɪᴘᴛ","url": `${botscript}`}},{"quickReplyButton": {"displayText": "𝗥 𝗘 𝗡 𝗧","id": 'rentbot'}},{"quickReplyButton": {"displayText": "𝗢 𝗪 𝗡 𝗘 𝗥","id": 'owner'}}] )
 break
 case 'gamemenu':
 	   if (isBan) return reply(mess.ban)
@@ -10634,7 +10660,7 @@ await XeonBotInc.send5ButImg(from, `𝗨𝗦𝗘𝗥 𝗜𝗡𝗙𝗢
 ┃ • ${prefix}guess [option]
 ┃ • ${prefix}math [mode]
 ┃ • ${prefix}suitpvp [tag]
-╰─────────────⎔` + '' + ' ', `${botname}`,unicorn, [{"urlButton": {"displayText": "ʏᴏᴜᴛᴜʙᴇ","url": `${websitex}`}},{"urlButton": {"displayText": "sᴄʀɪᴘᴛ","url": `${botscript}`}},{"quickReplyButton": {"displayText": "𝗗 𝗢 𝗡 𝗔 𝗧 𝗘","id": 'donate'}},{"quickReplyButton": {"displayText": "𝗢 𝗪 𝗡 𝗘 𝗥","id": 'owner'}}] )
+╰─────────────⎔` + '' + ' ', `${botname}`,unicorn, [{"urlButton": {"displayText": "ʏᴏᴜᴛᴜʙᴇ","url": `${websitex}`}},{"urlButton": {"displayText": "sᴄʀɪᴘᴛ","url": `${botscript}`}},{"quickReplyButton": {"displayText": "𝗥 𝗘 𝗡 𝗧","id": 'rentbot'}},{"quickReplyButton": {"displayText": "𝗢 𝗪 𝗡 𝗘 𝗥","id": 'owner'}}] )
 break
 case 'anonymousmenu':
 	   if (isBan) return reply(mess.ban)
@@ -10645,7 +10671,7 @@ await XeonBotInc.send5ButImg(from, `╔═══✪「 ANONYMOUS 」
 ┃ • ${prefix}start
 ┃ • ${prefix}next
 ┃ • ${prefix}leave
-╰─────────────⎔` + '' + ' ', `${botname}`,unicorn, [{"urlButton": {"displayText": "ʏᴏᴜᴛᴜʙᴇ","url": `${websitex}`}},{"urlButton": {"displayText": "sᴄʀɪᴘᴛ","url": `${botscript}`}},{"quickReplyButton": {"displayText": "𝗗 𝗢 𝗡 𝗔 𝗧 𝗘","id": 'donate'}},{"quickReplyButton": {"displayText": "𝗢 𝗪 𝗡 𝗘 𝗥","id": 'owner'}}] )
+╰─────────────⎔` + '' + ' ', `${botname}`,unicorn, [{"urlButton": {"displayText": "ʏᴏᴜᴛᴜʙᴇ","url": `${websitex}`}},{"urlButton": {"displayText": "sᴄʀɪᴘᴛ","url": `${botscript}`}},{"quickReplyButton": {"displayText": "𝗥 𝗘 𝗡 𝗧","id": 'rentbot'}},{"quickReplyButton": {"displayText": "𝗢 𝗪 𝗡 𝗘 𝗥","id": 'owner'}}] )
 break
 case 'toolmenu':
 	   if (isBan) return reply(mess.ban)
@@ -10664,7 +10690,7 @@ await XeonBotInc.send5ButImg(from, `𝗨𝗦𝗘𝗥 𝗜𝗡𝗙𝗢
 ┃ • ${prefix}translate [text]
 ┃ • ${prefix}fliptext [text]
 ┃ • ${prefix}toletter [number]
-╰─────────────⎔` + '' + ' ', `${botname}`,unicorn, [{"urlButton": {"displayText": "ʏᴏᴜᴛᴜʙᴇ","url": `${websitex}`}},{"urlButton": {"displayText": "sᴄʀɪᴘᴛ","url": `${botscript}`}},{"quickReplyButton": {"displayText": "𝗗 𝗢 𝗡 𝗔 𝗧 𝗘","id": 'donate'}},{"quickReplyButton": {"displayText": "𝗢 𝗪 𝗡 𝗘 𝗥","id": 'owner'}}] )
+╰─────────────⎔` + '' + ' ', `${botname}`,unicorn, [{"urlButton": {"displayText": "ʏᴏᴜᴛᴜʙᴇ","url": `${websitex}`}},{"urlButton": {"displayText": "sᴄʀɪᴘᴛ","url": `${botscript}`}},{"quickReplyButton": {"displayText": "𝗥 𝗘 𝗡 𝗧","id": 'rentbot'}},{"quickReplyButton": {"displayText": "𝗢 𝗪 𝗡 𝗘 𝗥","id": 'owner'}}] )
 break
 case 'databasemenu':
 	   if (isBan) return reply(mess.ban)
@@ -10679,7 +10705,7 @@ await XeonBotInc.send5ButImg(from, `╔═══✪「 DATABASE 」
 ┃ • ${prefix}listmsg
 ┃ • ${prefix}getmsg
 ┃ • ${prefix}delmsg
-╰─────────────⎔` + '' + ' ', `${botname}`,unicorn, [{"urlButton": {"displayText": "ʏᴏᴜᴛᴜʙᴇ","url": `${websitex}`}},{"urlButton": {"displayText": "sᴄʀɪᴘᴛ","url": `${botscript}`}},{"quickReplyButton": {"displayText": "𝗗 𝗢 𝗡 𝗔 𝗧 𝗘","id": 'donate'}},{"quickReplyButton": {"displayText": "𝗢 𝗪 𝗡 𝗘 𝗥","id": 'owner'}}] )
+╰─────────────⎔` + '' + ' ', `${botname}`,unicorn, [{"urlButton": {"displayText": "ʏᴏᴜᴛᴜʙᴇ","url": `${websitex}`}},{"urlButton": {"displayText": "sᴄʀɪᴘᴛ","url": `${botscript}`}},{"quickReplyButton": {"displayText": "𝗥 𝗘 𝗡 𝗧","id": 'rentbot'}},{"quickReplyButton": {"displayText": "𝗢 𝗪 𝗡 𝗘 𝗥","id": 'owner'}}] )
 break
 case 'indomenu':
 	   if (isBan) return reply(mess.ban)
@@ -10719,7 +10745,7 @@ await XeonBotInc.send5ButImg(from, `𝗨𝗦𝗘𝗥 𝗜𝗡𝗙𝗢
 ┃ • ${prefix}covidindo
 ┃ • ${prefix}earthquake
 ┃ • ${prefix}tvschedule
-╰─────────────⎔` + '' + ' ', `${botname}`,unicorn, [{"urlButton": {"displayText": "ʏᴏᴜᴛᴜʙᴇ","url": `${websitex}`}},{"urlButton": {"displayText": "sᴄʀɪᴘᴛ","url": `${botscript}`}},{"quickReplyButton": {"displayText": "𝗗 𝗢 𝗡 𝗔 𝗧 𝗘","id": 'donate'}},{"quickReplyButton": {"displayText": "𝗢 𝗪 𝗡 𝗘 𝗥","id": 'owner'}}] )
+╰─────────────⎔` + '' + ' ', `${botname}`,unicorn, [{"urlButton": {"displayText": "ʏᴏᴜᴛᴜʙᴇ","url": `${websitex}`}},{"urlButton": {"displayText": "sᴄʀɪᴘᴛ","url": `${botscript}`}},{"quickReplyButton": {"displayText": "𝗥 𝗘 𝗡 𝗧","id": 'rentbot'}},{"quickReplyButton": {"displayText": "𝗢 𝗪 𝗡 𝗘 𝗥","id": 'owner'}}] )
 break
 case 'indohoroscopemenu':
 	   if (isBan) return reply(mess.ban)
@@ -10756,7 +10782,7 @@ await XeonBotInc.send5ButImg(from, `╔═✪「 INDO HOROSCOPE 」
 ┃ • ${prefix}masasubur
 ┃ • ${prefix}zodiak
 ┃ • ${prefix}shio
-╰─────────────⎔` + '' + ' ', `${botname}`,unicorn, [{"urlButton": {"displayText": "ʏᴏᴜᴛᴜʙᴇ","url": `${websitex}`}},{"urlButton": {"displayText": "sᴄʀɪᴘᴛ","url": `${botscript}`}},{"quickReplyButton": {"displayText": "𝗗 𝗢 𝗡 𝗔 𝗧 𝗘","id": 'donate'}},{"quickReplyButton": {"displayText": "𝗢 𝗪 𝗡 𝗘 𝗥","id": 'owner'}}] )
+╰─────────────⎔` + '' + ' ', `${botname}`,unicorn, [{"urlButton": {"displayText": "ʏᴏᴜᴛᴜʙᴇ","url": `${websitex}`}},{"urlButton": {"displayText": "sᴄʀɪᴘᴛ","url": `${botscript}`}},{"quickReplyButton": {"displayText": "𝗥 𝗘 𝗡 𝗧","id": 'rentbot'}},{"quickReplyButton": {"displayText": "𝗢 𝗪 𝗡 𝗘 𝗥","id": 'owner'}}] )
 break
 case 'othermenu':
 	   if (isBan) return reply(mess.ban)
@@ -10790,7 +10816,7 @@ await XeonBotInc.send5ButImg(from, `𝗨𝗦𝗘𝗥 𝗜𝗡𝗙𝗢
 ┃ • ${prefix}donate
 ┃ • ${prefix}request
 ┃ • ${prefix}report [bug]
-╰─────────────⎔` + '' + ' ', `${botname}`,unicorn, [{"urlButton": {"displayText": "ʏᴏᴜᴛᴜʙᴇ","url": `${websitex}`}},{"urlButton": {"displayText": "sᴄʀɪᴘᴛ","url": `${botscript}`}},{"quickReplyButton": {"displayText": "𝗗 𝗢 𝗡 𝗔 𝗧 𝗘","id": 'donate'}},{"quickReplyButton": {"displayText": "𝗢 𝗪 𝗡 𝗘 𝗥","id": 'owner'}}] )
+╰─────────────⎔` + '' + ' ', `${botname}`,unicorn, [{"urlButton": {"displayText": "ʏᴏᴜᴛᴜʙᴇ","url": `${websitex}`}},{"urlButton": {"displayText": "sᴄʀɪᴘᴛ","url": `${botscript}`}},{"quickReplyButton": {"displayText": "𝗥 𝗘 𝗡 𝗧","id": 'rentbot'}},{"quickReplyButton": {"displayText": "𝗢 𝗪 𝗡 𝗘 𝗥","id": 'owner'}}] )
 break
 case 'tqtt': 
 	   if (isBan) return reply(mess.ban)
